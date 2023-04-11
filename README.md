@@ -14,7 +14,7 @@
 1. <b>Programming</b> : PHP, Codeigniter, Laravel, CakePHP, Javascript, HTML, CSS, NestJs, Jquery, JSON, Typescript, Object Oriented Programming, AJAX
 2. <b>Database</b> : MySQL, PostgreSQL, MongoDB
 3. <b>Message Broker</b> : Nats, RabbitMQ
-4. <b>Cache</b> : redis, files
+4. <b>Cache</b> : redis, files, memory cache
 5. <b>Deployment</b>: Docker, Kubernetes, NGINX, Apache, Github, Gitlab, Bitbucket
 6. <b>Server</b> : AWS, GCP
 7. <b>Operating System</b> : Windows, Linux, Unix
@@ -89,3 +89,12 @@
 4. <b>Adaptation</b> - Excellent
 5. <b>Initiative</b> - good
 6. <b>Team Work</b> - Excellent
+
+
+## Projects
+1. <b>eDOT</b>: POS system, eLOG integration, Promotion discounts eFOOD, Food vouchers eFOOD,
+2. <b>Tabsquare</b>: Redcat integration, Food panda integration, Menu and Image Synchronizing, Local restaurant integration, CMS, eCMS
+3. <b>Terralogiq</b>:  BRIJAR (BRI Networks), BRI location map, JNE map tracking
+4. <b>Lynkanna</b>: Vave commerce, multi level marketing, vave vouchers, system navigation (Indonesian government), SIKDA (public health system)
+5. <b>Apecsa</b>: multi level marketing, Tukangsayur.co, Cashindo loan system, NGO databases
+6. <b>Fibernet</b>: Inventory system, CRM system, reporting system
