@@ -1,266 +1,90 @@
-<h1 style="color: #1c40df;text-align: center;">
-    Luthfi Satria Ramdhani
-</h1>
+# [Luthfi Satria Ramdhani](https://www.linkedin.com/in/luthfi-satria-48787627)
 
-<h3 style="text-align: center; color: #9e9a9a; font-size: 13pt; font-weight: 400;">
-    Bukit Cilebut Residence Blok D no 6, Kabupaten Bogor, West Java, Indonesia
-</h3>
-<p>
+##### Bukit Cilebut Residence Blok D no 6, Kabupaten Bogor, West Java, Indonesia
+
+<p style="text-align: center; color: #9e9a9a; font-size: 13pt; font-weight: 400;">
     <b>Email</b>: Luthfi.uika@gmail.com | <a href="https://www.linkedin.com/in/luthfi-satria-48787627/" target="_blank">LinkedIn Profile</a> | <b>phone</b>+62 856 9555 1507
 </p>
 
-<div class="panel education">
-    <div class="panel-header">
-        <h2>Education</h2>
-    </div>
-    <div class="panel-body">
-        <div class="left">
-            Bachelor Degree of Software Engineering, Ibn Khaldun University
-        </div>
-        <div class="right">
-            Bogor, 2007 - 2013
-        </div>
-    </div>
-</div>
+## Education
+<div>Bachelor Degree of Software Engineering, Ibn Khaldun University</div>
+<div align="right"><i>Bogor, 2007 - 2013</i></div>
 
-<div class="panel skill">
-    <div class="panel-header">
-        <h2>Skill</h2>
-    </div>
-    <div class="panel-body">
-        <div class="left">
-            <h4>Programming</h4>
-            <ul>
-                <li>PHP</li>
-                <li>Codeigniter</li>
-                <li>Laravel</li>
-                <li>Javascript</li>
-                <li>Html 5</li>
-                <li>CSS 3</li>
-                <li>NestJs</li>
-                <li>Jquery</li>
-            </ul>
-            <h4>Database</h4>
-            <ul>
-                <li>MySQL</li>
-                <li>PostgreSQL</li>
-                <li>MongoDB</li>
-            </ul>
-            <h4>Message Broker</h4>
-            <ul>
-                <li>Nats</li>
-                <li>RabbitMQ</li>
-            </ul>
-        </div>
-        <div class="right">
-            <h4>Memory Cache</h4>
-            <ul>
-                <li>Files Cache</li>
-                <li>Redis</li>
-            </ul>
-            <h4>Deployment</h4>
-            <ul>
-                <li>Docker</li>
-                <li>Kubernetes</li>
-                <li>NGINX</li>
-                <li>Apache</li>
-            </ul>
-            <h4>Server</h4>
-            <ul>
-                <li>AWS</li>
-                <li>GCP</li>
-            </ul>
-            <h4>Operating System</h4>
-            <ul>
-                <li>Windows</li>
-                <li>Ubuntu</li>
-                <li>Unix</li>
-            </ul>
-        </div>
-    </div>
-</div>
+## Skill
+1. <b>Programming</b> : PHP, Codeigniter, Laravel, Javascript, Html, CSS, NestJs, Jquery
+2. <b>Database</b> : MySQL, PostgreSQL, MongoDB
+3. <b>Message Broker</b> : Nats, RabbitMQ
+4. <b>Cache</b> : redis, files
+5. <b>Deployment</b>: Docker, Kubernetes, NGINX, Apache
+6. <b>Server</b> : AWS, GCP
+7. <b>Operating System</b> : Windows, Linux, Unix
 
-<div class="panel experience">
-    <div class="panel-header">
-        <h2>Work Experience</h2>
-    </div>
-    <div class="panel-body">
-        <!-- eDOT -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Senior Backend Developer
-                </div>
-                <div class="company">
-                    Elektronik Distribusi Otomisasi Terkemuka (eDOT) - Bandung Indonesia
-                </div>
-                <div class="year">
-                    June 2022 - Present
-                </div>
-            </div>
-            <div class="exp-description">
-                Build Rest API, lead developer team, working closely with project manager
-                and technical manager, recruitment process, collaborate with internal
-                nabati team in software developing, programmers, deployment code, bug
-                and fixing issue
-            </div>
-        </div>
-    </div>
-    <div class="panel-body">
-        <!-- Tabsquare -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Lead Developer
-                </div>
-                <div class="company">
-                    Tabsquare Pte Ltd - Singapore
-                </div>
-                <div class="year">
-                    January 2020 - May 2022
-                </div>
-            </div>
-            <div class="exp-description">
-                Optimize application performance, build new features, working closely
-                with product managers, manage team task, collaborate with internal team,
-                proactive in deployment phase, debug and fixing issue, build rest API for
-                integration client apps, and review code
-            </div>
-        </div>
-    </div>
-    <div class="panel-body">
-        <!-- Terralogiq -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Senior Backend Developer
-                </div>
-                <div class="company">
-                    Pt. Terralogiq Integrasi - Jakarta Indonesia
-                </div>
-                <div class="year">
-                    July 2019 - January 10, 2020
-                </div>
-            </div>
-            <div class="exp-description">
-                Optimize application performance, build company projects, build code
-                library for reusable, fixing bug and issue, build rest API, provide end
-                user training, mentoring junior programmer, Established milestone for
-                projects, and manage developer team
-            </div>
-        </div>
-    </div>
-    <div class="panel-body">
-        <!-- Lynkanna -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Senior Web Developer
-                </div>
-                <div class="company">
-                    Pt. Lynkanna - Jakarta Indonesia
-                </div>
-                <div class="year">
-                    February 2017 - April, 2019
-                </div>
-            </div>
-            <div class="exp-description">
-                Optimize application performance, build company projects, build code
-                library for reusable, build rest API, provide end user training, mentoring
-                junior programmer, Established milestone for projects, manage
-                developer team, and designing system by user requirements
-            </div>
-        </div>
-    </div>
-    <div class="panel-body">
-        <!-- Apecsa -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Web Developer
-                </div>
-                <div class="company">
-                    Pt. Apecsa Optima Solusi - Jakarta Indonesia
-                </div>
-                <div class="year">
-                    June 2015 - February, 2017
-                </div>
-            </div>
-            <div class="exp-description">
-                Established milestone for projects, build rest API, build Content
-                Management Systems, create website user interface, design and
-                developing software applications
-            </div>
-        </div>
-    </div>
-    <div class="panel-body">
-        <!-- Fibernet -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Junior Web Developer
-                </div>
-                <div class="company">
-                    Pt. Fibernet Optic Solusi - Jakarta Indonesia
-                </div>
-                <div class="year">
-                    March 2012 - November 2014
-                </div>
-            </div>
-            <div class="exp-description">
-                Develop application on intra networks servers, coordinate with senior
-                programmer to evaluate and improve internal website, bug fixing and
-                resolved issue
-            </div>
-        </div>
-    </div>
-</div>
+## Work Experiences
+<!-- eDOT -->
+### Senior Backend Developer
+<div align="left"><b>Elektronik Distribusi Otomisasi Terkemuka (eDOT) - Bandung Indonesia</b></div>
+<div align="right"><i>June 2022 - Present</i></div>
 
-<div class="panel achievement">
-    <div class="panel-header">
-        <h2>Achievement</h2>
-    </div>
-    <div class="panel-body">
-        <!-- extra miles -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Extra Miles Awards
-                </div>
-                <div class="company">
-                    Tabsquare Pte Ltd
-                </div>
-                <div class="year">
-                    March 2021
-                </div>
-            </div>
-            <div class="exp-description">
-                Minimize CMS issue, support operational team in local restaurant
-                installation, reduce latency 40%, increase database query performance
-                below 100ms, increase speed of duplication menu in many restaurant
-            </div>
-        </div>
-    </div>
-    <div class="panel-body">
-        <!-- Tabsquare -->
-        <div class="experience">
-            <div class="exp-title">
-                <div class="title">
-                    Best Team Awards
-                </div>
-                <div class="company">
-                    Tabsquare Pte Ltd
-                </div>
-                <div class="year">
-                    September 2021
-                </div>
-            </div>
-            <div class="exp-description">
-                Launch eCMS version, help smartweb team to launch their new version
-                of smartweb, successfully deliver redcat integration, reduce redundant
-                order data, minimize integration issue
-            </div>
-        </div>
-    </div>
-</div>
+> Build Rest API, lead developer team, working closely with project manager and technical manager, recruitment process, collaborate with internal nabati team in software developing, programmers, deployment code, bug and fixing issue.
 
+<!-- Tabsquare -->
+### Lead Developer
+<div align="left"><b>Tabsquare Pte Ltd - Singapore</b></div>
+<div align="right"><i>January 2020 - May 2022</i></div>
+
+> Optimize application performance, build new features, working closely with product managers, manage team task, collaborate with internal team, proactive in deployment phase, debug and fixing issue, build rest API for integration client apps, and review code.
+
+<!-- Terralogiq -->
+### Senior Backend Developer
+<div align="left"><b>PT. Terralogiq Integrasi - Jakarta Indonesia</b></div>
+<div align="right"><i>July 2019 - January 10, 2020</i></div>
+
+> Optimize application performance, build company projects, build code library for reusable, fixing bug and issue, build rest API, provide end user training, mentoring junior programmer, Established milestone for projects, and manage developer team
+
+<!-- Lynkanna -->
+### Senior Backend Developer
+<div align="left"><b>PT. Lynkanna Jaya Utama - Jakarta Indonesia</b></div>
+<div align="right"><i>February 2017 - April, 2019</i></div>
+
+> Optimize application performance, build company projects, build code library for reusable, build rest API, provide end user training, mentoring junior programmer, Established milestone for projects, manage developer team, and designing system by user requirements
+
+<!-- Apecsa -->
+### Web Developer
+<div align="left"><b>PT. Apecsa Optima Solusi - Jakarta Indonesia</b></div>
+<div align="right"><i>June 2015 - February, 2017</i></div>
+
+> Established milestone for projects, build rest API, build Content Management Systems, create website user interface, design and developing software applications
+
+
+<!-- Fibernet -->
+### Junior Web Developer
+<div align="left"><b>Fibernet Optic Solusi - Jakarta Indonesia</b></div>
+<div align="right"><i>March 2012 - November 2014</i></div>
+
+> Develop application on intra networks servers, coordinate with senior programmer to evaluate and improve internal website, bug fixing and resolved issue
+
+## Achievement
+### Extra Miles Awards
+<div align="left"><b>Tabsquare Pte Ltd</b></div>
+<div align="right"><i>March 2021</i></div>
+
+> Minimize CMS issue, support operational team in local restaurant installation, reduce latency 40%, increase database query performance below 100ms, increase speed of duplication menu in many restaurant
+
+### Best Team Awards
+<div align="left"><b>Tabsquare Pte Ltd</b></div>
+<div align="right"><i>September 2021</i></div>
+
+> Launch eCMS version, help smartweb team to launch their new version of smartweb, successfully deliver redcat integration, reduce redundant order data, minimize integration issue
+
+## Languages
+1. <b>Indonesia</b> - Fluently
+
+2. <b>English</b> - Fair
+
+## Soft Skill
+1. <b>Leadership</b> - good
+2. <b>Problem Solving</b> - good
+3. <b>Responsibility</b> - good
+4. <b>Adaptation</b> - Excellent
+5. <b>Initiative</b> - good
+6. <b>Team Work</b> - Excellent
