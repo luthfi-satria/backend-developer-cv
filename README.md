@@ -11,14 +11,16 @@
 <div align="right"><i>Bogor, 2007 - 2013</i></div>
 
 ## Skill
-1. <b>Programming</b> : PHP, Codeigniter, Laravel, Javascript, Html, CSS, NestJs, Jquery
+1. <b>Programming</b> : PHP, Codeigniter, Laravel, CakePHP, Javascript, HTML, CSS, NestJs, Jquery, JSON, Typescript, Object Oriented Programming, AJAX
 2. <b>Database</b> : MySQL, PostgreSQL, MongoDB
 3. <b>Message Broker</b> : Nats, RabbitMQ
 4. <b>Cache</b> : redis, files
-5. <b>Deployment</b>: Docker, Kubernetes, NGINX, Apache
+5. <b>Deployment</b>: Docker, Kubernetes, NGINX, Apache, Github, Gitlab, Bitbucket
 6. <b>Server</b> : AWS, GCP
 7. <b>Operating System</b> : Windows, Linux, Unix
-
+8. <b>Development</b> : Monolith, Microservice, REST API, Geo Location
+9. <b>Documentation</b> : Google Docs, Google spreadsheet, JIRA, JIRA confluence, Trello
+10. <b>Communication</b> : Whatsapp, Slack, Discord, Google Meet, Zoom
 ## Work Experiences
 <!-- eDOT -->
 ### Senior Backend Developer
@@ -78,7 +80,6 @@
 
 ## Languages
 1. <b>Indonesia</b> - Fluently
-
 2. <b>English</b> - Fair
 
 ## Soft Skill
