@@ -1,27 +1,37 @@
-# [Luthfi Satria Ramdhani](https://www.linkedin.com/in/luthfi-satria-48787627)
-
-##### Bukit Cilebut Residence Blok D no 6, Kabupaten Bogor, West Java, Indonesia
-
-<p style="text-align: center; color: #9e9a9a; font-size: 13pt; font-weight: 400;">
+<!-- # [Luthfi Satria Ramdhani](https://www.linkedin.com/in/luthfi-satria-48787627) -->
+<div align="center">
+    <h1>
+        <a href="https://www.linkedin.com/in/luthfi-satria-48787627">
+            Luthfi Satria Ramdhani
+        </a>
+    </h1>
+</div>
+<div align="center"><h4>Bukit Cilebut Residence Blok D no 6, Kabupaten Bogor, West Java, Indonesia</h4></div>
+<div align="center">
     <b>Email</b>: Luthfi.uika@gmail.com | <a href="https://www.linkedin.com/in/luthfi-satria-48787627/" target="_blank">LinkedIn Profile</a> | <b>phone</b>+62 856 9555 1507
-</p>
+</div>
 
-## Education
+<h2><a href="#education">Education</a></h2>
 <div>Bachelor Degree of Software Engineering, Ibn Khaldun University</div>
 <div align="right"><i>Bogor, 2007 - 2013</i></div>
 
-## Skill
-1. <b>Programming</b> : PHP, Codeigniter, Laravel, CakePHP, Javascript, HTML, CSS, NestJs, Jquery, JSON, Typescript, Object Oriented Programming, AJAX
-2. <b>Database</b> : MySQL, PostgreSQL, MongoDB
-3. <b>Message Broker</b> : Nats, RabbitMQ
-4. <b>Cache</b> : redis, files, memory cache
-5. <b>Deployment</b>: Docker, Kubernetes, NGINX, Apache, Github, Gitlab, Bitbucket
-6. <b>Server</b> : AWS, GCP
-7. <b>Operating System</b> : Windows, Linux, Unix
-8. <b>Development</b> : Monolith, Microservice, REST API, Geo Location
-9. <b>Documentation</b> : Google Docs, Google spreadsheet, JIRA, JIRA confluence, Trello
-10. <b>Communication</b> : Whatsapp, Slack, Discord, Google Meet, Zoom
-## Work Experiences
+<h2><a href="#skill">Skill</a></h2>
+
+<ul>
+    <li><b>Programming</b> : PHP, Codeigniter, Laravel, CakePHP, Javascript, HTML, CSS, NestJs, Jquery, JSON, Typescript, Object Oriented Programming, AJAX
+    <li><b>Database</b> : MySQL, PostgreSQL, MongoDB</li>
+    <li><b>Message Broker</b> : Nats, RabbitMQ</li>
+    <li><b>Cache</b> : redis, files, memory cache</li>
+    <li><b>Deployment</b>: Docker, Kubernetes, NGINX, Apache, Github, Gitlab, Bitbucket</li>
+    <li><b>Server</b> : AWS, GCP</li>
+    <li><b>Operating System</b> : Windows, Linux, Unix</li>
+    <li><b>Development</b> : Monolith, Microservice, REST API, Geo Location</li>
+    <li><b>Documentation</b> : Google Docs, Google spreadsheet, JIRA, JIRA confluence, Trello</li>
+    <li><b>Communication</b> : Whatsapp, Slack, Discord, Google Meet, Zoom</li>
+</ul>
+
+<h2><a href="#work-experiences">Work Experiences</a></h2>
+
 <!-- eDOT -->
 ### Senior Backend Developer
 <div align="left"><b>Elektronik Distribusi Otomisasi Terkemuka (eDOT) - Bandung Indonesia</b></div>
@@ -65,7 +75,8 @@
 
 > Develop application on intra networks servers, coordinate with senior programmer to evaluate and improve internal website, bug fixing and resolved issue
 
-## Achievement
+<h2><a href="#achievements">Achievements</a></h2>
+
 ### Extra Miles Awards
 <div align="left"><b>Tabsquare Pte Ltd</b></div>
 <div align="right"><i>March 2021</i></div>
@@ -78,11 +89,13 @@
 
 > Launch eCMS version, help smartweb team to launch their new version of smartweb, successfully deliver redcat integration, reduce redundant order data, minimize integration issue
 
-## Languages
+<h2><a href="#languages">Languages</a></h2>
+
 1. <b>Indonesia</b> - Fluently
 2. <b>English</b> - Fair
 
-## Soft Skill
+<h2><a href="#soft-skills">Soft Skills</a></h2>
+
 1. <b>Leadership</b> - good
 2. <b>Problem Solving</b> - good
 3. <b>Responsibility</b> - good
@@ -91,7 +104,8 @@
 6. <b>Team Work</b> - Excellent
 
 
-## Projects
+<h2><a href="#projects">Projects</a></h2>
+
 1. <b>eDOT</b>: POS system, eLOG integration, Promotion discounts eFOOD, Food vouchers eFOOD,
 2. <b>Tabsquare</b>: Redcat integration, Food panda integration, Menu and Image Synchronizing, Local restaurant integration, CMS, eCMS
 3. <b>Terralogiq</b>:  BRIJAR (BRI Networks), BRI location map, JNE map tracking
