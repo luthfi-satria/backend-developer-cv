@@ -8,7 +8,7 @@
 </div>
 <div align="center"><h4>Bukit Cilebut Residence Blok D no 6, Kabupaten Bogor, West Java, Indonesia</h4></div>
 <div align="center">
-    <b>Email</b>: Luthfi.uika@gmail.com | <a href="https://www.linkedin.com/in/luthfi-satria-48787627/" target="_blank">LinkedIn Profile</a> | <b>phone</b>+62 856 9555 1507
+    <b>Email</b>: Luthfi.uika@gmail.com | <b>phone</b>+62 856 9555 1507 | <a href="https://www.linkedin.com/in/luthfi-satria-48787627/" target="_blank">LinkedIn Profile</a> | <a href="https://github.com/luthfi-satria?tab=repositories">Github</a> | <a href="https://gitlab.com/users/luthfi.satria/projects">Gitlab</a>
 </div>
 
 <h2><a href="#education">Education</a></h2>
