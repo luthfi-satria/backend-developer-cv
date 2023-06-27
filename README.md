@@ -35,7 +35,7 @@
 <!-- eDOT -->
 ### Senior Backend Developer
 <div align="left"><b>Elektronik Distribusi Otomisasi Terkemuka (eDOT) - Bandung Indonesia</b></div>
-<div align="right"><i>June 2022 - Present</i></div>
+<div align="right"><i>June 2022 - April 2023</i></div>
 
 > Build Rest API, lead developer team, working closely with project manager and technical manager, recruitment process, collaborate with internal nabati team in software developing, programmers, deployment code, bug and fixing issue.
 
